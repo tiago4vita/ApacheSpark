@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Spark
+spark-warehouse/
+metastore_db/
+derby.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Virtual Environment
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Plots
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+
+# Data files (uncomment if you don't want to track data files)
+# *.csv
+# *.xlsx
+# *.xls 
